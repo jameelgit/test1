@@ -5,3 +5,4 @@ rebase testing
 rebase commit 1
 rebase commit 2
 git merge testing1
+git merge testing2
